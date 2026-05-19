@@ -1,0 +1,45 @@
+# C++ objects and libs
+*.slo
+*.lo
+*.o
+*.obj
+
+# Qt-specific
+Makefile*
+*.pro.user
+*.pro.user.*
+.qmake.stash
+.qmake.cache
+.qtc_clangd/
+object_script.*
+
+# Generated UI and MOC files
+ui_*.h
+moc_*.cpp
+qrc_*.cpp
+
+# Build directories
+build-*/
+build/
+debug/
+release/
+re/
+
+# Subdirectories build folders
+*/build-*/
+*/build/
+*/debug/
+*/release/
+*/re/
+
+# OS/temp files
+Thumbs.db
+.DS_Store
+
+# Temporary garbage files found in directory
+UsersASUSAppData*
+UserslenovoAppData*
+usersadminappdata*
+*/UsersASUSAppData*
+*/UserslenovoAppData*
+*/usersadminappdata*

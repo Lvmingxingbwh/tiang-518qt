@@ -1,0 +1,15 @@
+<RCC>
+    <qresource prefix="/">
+        <file>Icon/1606455890-2961.jpg</file>
+        <file>Icon/1606455890-2961.png</file>
+        <file>Icon/background.webp</file>
+        <file>Icon/Backhome.png</file>
+        <file>Icon/connect.png</file>
+        <file>Icon/disconnect.png</file>
+        <file>Icon/icon.png</file>
+        <file>Icon/Lock.png</file>
+        <file>Icon/unLock.png</file>
+        <file>Icon/unpower.png</file>
+        <file>Icon/power.png</file>
+    </qresource>
+</RCC>
